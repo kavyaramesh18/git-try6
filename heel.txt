@@ -1,1 +1,2 @@
 hello-sonar
+I have committed a change.
